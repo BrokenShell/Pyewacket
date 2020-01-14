@@ -1,0 +1,3 @@
+include Pyewacket.hpp
+include Pyewacket.pyx
+include LICENSE
