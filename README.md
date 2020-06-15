@@ -121,17 +121,20 @@ randrange(10, 10, 0)    # -> [10, 10) => 10
 
 
 ## Development Log
+##### Pyewacket 1.3.9
+- Installer update
+
 ##### Pyewacket 1.3.8
-- Documentation Update.
+- Documentation Update
 
 ##### Pyewacket 1.3.7
-- Fixed more typos.
+- Fixed more typos
 
 ##### Pyewacket 1.3.6
 - Fixed Typos
 
 ##### Pyewacket 1.3.5
-- Installer update.
+- Installer update
 
 ##### Pyewacket 1.3.4
 - Storm 3.2.2 Update.

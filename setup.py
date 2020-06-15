@@ -12,7 +12,7 @@ setup(
             name="Pyewacket",
             sources=["Pyewacket.pyx"],
             language=["c++"],
-            extra_compile_args=["-std=gnu++17"],
+            extra_compile_args=["-std=c++17"],
         ),
         compiler_directives={
             'embedsignature': True,
@@ -21,8 +21,7 @@ setup(
     ),
     author="Robert Sharp",
     author_email="webmaster@sharpdesigndigital.com",
-    requires=["Cython"],
-    version="1.3.8",
+    version="1.3.9",
     description="Drop-in Replacement for the Python Random Module.",
     long_description=long_description,
     long_description_content_type="text/markdown",
